@@ -1,0 +1,23 @@
+{
+  "name": "first_heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orholam/first_heroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orholam/first_heroku/issues"
+  },
+  "homepage": "https://github.com/orholam/first_heroku#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
